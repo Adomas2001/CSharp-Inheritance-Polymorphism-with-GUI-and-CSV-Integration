@@ -1,0 +1,12 @@
+D:\OOP2-LAB3\LAB3\LAB3\bin\Debug\Data\City1.txt
+D:\OOP2-LAB3\LAB3\LAB3\bin\Debug\Data\City2.txt
+D:\OOP2-LAB3\LAB3\LAB3\bin\Debug\LAB3.exe.config
+D:\OOP2-LAB3\LAB3\LAB3\bin\Debug\LAB3.exe
+D:\OOP2-LAB3\LAB3\LAB3\bin\Debug\LAB3.pdb
+D:\OOP2-LAB3\LAB3\LAB3\obj\Debug\LAB3.csproj.AssemblyReference.cache
+D:\OOP2-LAB3\LAB3\LAB3\obj\Debug\LAB3.Properties.Resources.resources
+D:\OOP2-LAB3\LAB3\LAB3\obj\Debug\LAB3.csproj.GenerateResource.cache
+D:\OOP2-LAB3\LAB3\LAB3\obj\Debug\LAB3.csproj.CoreCompileInputs.cache
+D:\OOP2-LAB3\LAB3\LAB3\obj\Debug\LAB3.exe
+D:\OOP2-LAB3\LAB3\LAB3\obj\Debug\LAB3.pdb
+D:\OOP2-LAB3\LAB3\LAB3\obj\Debug\LAB3.Main.resources

@@ -1,0 +1,6 @@
+﻿City: Metropolis
+101;City Center Express;8.7;12;07:30:00;08:45:00
+202;Mountain Explorer;20.2;18;09:00:00;11:30:00
+303;Seaside Connection;15.5;22;12:15:00;14:00:00
+404;Industrial Loop;6.8;10;15:30:00;16:45:00
+505;Tech Hub Shuttle;10.1;14;17:15:00;18:30:00
